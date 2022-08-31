@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EG5eFLe8qdCaaCHTJ+cTCU6TGG64EYWMBr+A2YOnU3jscF51IBIGX3aTC/7RTc0H0klwKDOlGGzuum4sz0F5qQ==",
+  "success": true,
+  "projectFilePath": "/Users/abp06c/bocacode/todo-csharp/todo-csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/abp06c/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/abp06c/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/abp06c/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/abp06c/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/abp06c/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/abp06c/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
